@@ -1,0 +1,18 @@
+C:\Users\wbosw\GitHub\Dartmouth\Hello World\bin\Debug\net5.0-windows\Hello World.exe
+C:\Users\wbosw\GitHub\Dartmouth\Hello World\bin\Debug\net5.0-windows\Hello World.deps.json
+C:\Users\wbosw\GitHub\Dartmouth\Hello World\bin\Debug\net5.0-windows\Hello World.runtimeconfig.json
+C:\Users\wbosw\GitHub\Dartmouth\Hello World\bin\Debug\net5.0-windows\Hello World.runtimeconfig.dev.json
+C:\Users\wbosw\GitHub\Dartmouth\Hello World\bin\Debug\net5.0-windows\Hello World.dll
+C:\Users\wbosw\GitHub\Dartmouth\Hello World\bin\Debug\net5.0-windows\ref\Hello World.dll
+C:\Users\wbosw\GitHub\Dartmouth\Hello World\bin\Debug\net5.0-windows\Hello World.pdb
+C:\Users\wbosw\GitHub\Dartmouth\Hello World\obj\Debug\net5.0-windows\Hello World.vbprojAssemblyReference.cache
+C:\Users\wbosw\GitHub\Dartmouth\Hello World\obj\Debug\net5.0-windows\Hello_World.Form1.resources
+C:\Users\wbosw\GitHub\Dartmouth\Hello World\obj\Debug\net5.0-windows\Hello World.vbproj.GenerateResource.cache
+C:\Users\wbosw\GitHub\Dartmouth\Hello World\obj\Debug\net5.0-windows\Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wbosw\GitHub\Dartmouth\Hello World\obj\Debug\net5.0-windows\Hello World.AssemblyInfoInputs.cache
+C:\Users\wbosw\GitHub\Dartmouth\Hello World\obj\Debug\net5.0-windows\Hello World.AssemblyInfo.vb
+C:\Users\wbosw\GitHub\Dartmouth\Hello World\obj\Debug\net5.0-windows\Hello World.vbproj.CoreCompileInputs.cache
+C:\Users\wbosw\GitHub\Dartmouth\Hello World\obj\Debug\net5.0-windows\Hello World.dll
+C:\Users\wbosw\GitHub\Dartmouth\Hello World\obj\Debug\net5.0-windows\ref\Hello World.dll
+C:\Users\wbosw\GitHub\Dartmouth\Hello World\obj\Debug\net5.0-windows\Hello World.pdb
+C:\Users\wbosw\GitHub\Dartmouth\Hello World\obj\Debug\net5.0-windows\Hello World.genruntimeconfig.cache
